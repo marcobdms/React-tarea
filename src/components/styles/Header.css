@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Header {
+    height: 10vh;
+    background-color: rgb(211, 210, 210);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
